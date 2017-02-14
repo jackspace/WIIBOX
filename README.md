@@ -3,8 +3,8 @@ WIIBOX open source
 说明：
 ------------------------------
 1. WIIBOX is an open source program, developed to make it easier for you and your friends to join the prosperous alt-coin mining ecosystem!<br/><br/>
-2. The WIIBOX mining machine controller dedicated research and development, as well as mining machine peripheral product development, user-friendly, we can hope that markets Aunt mining.<br/><br/>
-3. WIIBOX did not open until there are many reasons, it simply includes: system instability, support daisy mining machine of time, upgrade frequency is too high, the official demanding.<br/><br/>
+2. The WIIBOX is a mining machine controller dedicated to alt-coin research and development, as well as mining machine peripheral product development, written to be user-friendly, which will help your cryptocurrency mining.<br/><br/>
+3. If WIIBOX has any issues there are many indicators, these include: system instability monitor, support for daisy chaining your mining machines for a specific time, warning if your upgrade frequency is too high.<br/><br/>
 4. We do not just do a controller, then there are even more powerful ecological chain, you want powerful sound controller program with us!<br/><br/>
 
 ###目前已经开放 raspberry 方案，官方 img 可在此处下载：<br/>
